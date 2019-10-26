@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.0.0",
-  "latestVersionCode": "0",
+  "latestVersion": "2.0.0",
+  "latestVersionCode": "2",
   "url": "https://github.com/nike-paida/just-for-izone/raw/master/izone.apk",
   "releaseNotes": [
-    "- Bug fixes",
-    "- Bug fixes",
-    "- Bug fixes"
+    "- 完善各项功能",
+    "- 新增MAMA数据",
+    "- 新增B站资源界面，可直接播放"
   ]
 }
