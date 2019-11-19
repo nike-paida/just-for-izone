@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": "1",
+  "latestVersion": "1.1.0",
+  "latestVersionCode": "3",
   "url": "http://app.xmwvip.vip/o_1do42avuv1hsar181o94oaqlhg9.apk",
   "releaseNotes": [
-    "- 完善各项功能",
-    "- 新增MAMA数据",
-    "- 新增B站资源界面，可直接播放"
+    "- 修复微博无法显示问题",
+    "- 时光机新增展开收起功能",
+    "- 启动页更新"
   ]
 }
