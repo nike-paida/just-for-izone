@@ -3,7 +3,7 @@
   "latestVersionCode": "3",
   "url": "http://www.mediafire.com/file/b5prn477c7w3k6r/izonev11.apk/file",
   "releaseNotes": [
-    "- 移除MAMA新增SMA2019实时数据",
+    "- 新增SMA2019实时数据，移除MAMA数据",
     "- 修复哔哩哔哩搜索框超出屏幕边界的问题"
   ]
 }
