@@ -13,7 +13,7 @@
         "versionCode":"4", 
         "versionName":"2.0.0", 
         "apkUrl":"http://download1041.mediafire.com/9x2cr7pe291g/1vduj65fiqau4qt/izone_v12.apk", 
-        "changeLog":"-重大更新\n- 新增信息栏，实时更新naver,推特,vlive,官咖等最新评论\n- 新增全网新闻动态板块，实时更新IZONE相关新闻\n- 提供实时谷歌翻译，妈妈再也不用担心你看不懂新闻啦\n- 优化首页右侧菜单栏呼出手势", 
+        "changeLog":"重大更新\n1.新增信息栏，实时更新naver,推特,vlive,官咖等最新评论\n2.新增全网新闻动态板块，实时更新IZONE相关新闻\n3.提供实时谷歌翻译，妈妈再也不用担心你看不懂新闻啦\n4.优化首页右侧菜单栏呼出手势", 
         "updateTips":"更新提示" ,
         "forceUpgrade":false
 }
