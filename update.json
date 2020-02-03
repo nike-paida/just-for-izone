@@ -3,10 +3,13 @@
   "latestVersionCode": "4",
   "url": "https://www.mediafire.com/file/s23uelv1qx9chjx/izone_v20.apk/file",
   "releaseNotes": [
-    "- v2.0重大更新,新增各种功能",
+    "- v2.0重大更新",
+     "- 新增全网实时评论和新闻，包括推特,Naver,Vlive,CafeDaum等",
+     "- 新增谷歌实时翻译，妈妈再也不用担心你看不懂新闻了",
+     "- 优化侧滑菜单的呼出手势，在首页任意空白处右滑即可呼出菜单"
   ],
         "versionCode":"4", 
         "versionName":"2.0.0", 
         "apkUrl":"https://www.mediafire.com/file/s23uelv1qx9chjx/izone_v20.apk/file", 
-        "changeLog":"null", 
+        "changeLog":"null"
 }
