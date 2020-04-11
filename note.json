@@ -2,9 +2,9 @@
   "dialognote": "相遇不是偶然❤️守护最好的IZ*ONE",
   "version":5,
   "totalsales":1027521,
-  "sales":[{"album":"COLOR*IZ","totoal_sales":259028,"color":"0xffb1021f"},
-           {"album":"HEART*IZ","totoal_sales":287950,"color":"0xffb6e3bc"},
-           {"album":"BLOOM*IZ","totoal_sales":480543,"color":"0xffe65110"}
+  "sales":[{"album":"COLOR*IZ","total_sales":259028,"color":"#b1021f"},
+           {"album":"HEART*IZ","total_sales":287950,"color":"#b6e3bc"},
+           {"album":"BLOOM*IZ","total_sales":480543,"color":"#e65110"}
           ],
   "pic_url": ["http://cdn.iz-one.co.kr/images/bloom-iz/g/jang-wonyoung-ver2-1800x2400.jpg",
               "http://cdn.iz-one.co.kr/images/bloom-iz/g/miyawaki-sakura-ver2-1800x2400.jpg",
