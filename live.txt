@@ -1,0 +1,862 @@
+央视高清,#genre#
+CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV2 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
+CCTV3 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+ 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
+CCTV11 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
+CCTV12 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV13 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV14 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV16 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+卫视高清,#genre#
+北京卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+湖南卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+浙江卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+东方卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+江苏卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+安徽卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+山东卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+广东卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+江西卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+海南卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+深圳卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+湖北卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+贵州卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+重庆卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+吉林卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+四川卫视 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+上海纪实人文 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+北京纪实科教 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+电影,#genre#
+斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
+埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
+埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
+埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
+埋堆堆7,http://43.128.40.42:198/虎牙直播/huya.php?id=23735153
+埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
+埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
+埋堆堆10,http://43.128.40.42:198/虎牙直播/huya.php?id=23749068
+埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
+埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23740162
+埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23829474
+埋堆堆14,http://43.128.40.42:198/虎牙直播/huya.php?id=23863833
+埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23903106
+埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23865025
+埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23728689
+埋堆堆18,http://43.128.40.42:198/虎牙直播/huya.php?id=23824171
+埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23860057
+埋堆堆20,http://43.128.40.42:198/虎牙直播/huya.php?id=23865072
+埋堆堆21,http://43.128.40.42:198/虎牙直播/huya.php?id=23734176
+埋堆堆22,http://43.128.40.42:198/虎牙直播/huya.php?id=23728651
+埋堆堆23,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
+埋堆堆24,http://43.128.40.42:198/虎牙直播/huya.php?id=23865179
+埋堆堆25,http://43.128.40.42:198/虎牙直播/huya.php?id=23734196
+埋堆堆26,http://43.128.40.42:198/虎牙直播/huya.php?id=23734211
+埋堆堆27,http://43.128.40.42:198/虎牙直播/huya.php?id=23865086
+埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
+埋堆堆29,http://43.128.40.42:198/虎牙直播/huya.php?id=23863822
+埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
+埋堆堆31,http://43.128.40.42:198/虎牙直播/huya.php?id=23734243
+埋堆堆32,http://43.128.40.42:198/虎牙直播/huya.php?id=23864480
+埋堆堆33,http://43.128.40.42:198/虎牙直播/huya.php?id=23746486
+埋堆堆35,http://43.128.40.42:198/虎牙直播/huya.php?id=23749074
+埋堆堆36,http://43.128.40.42:198/虎牙直播/huya.php?id=23863882
+埋堆堆37,http://43.128.40.42:198/虎牙直播/huya.php?id=23863778
+埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
+埋堆堆39,http://43.128.40.42:198/虎牙直播/huya.php?id=23829537
+埋堆堆40,http://43.128.40.42:198/虎牙直播/huya.php?id=23863809
+埋堆堆41,http://43.128.40.42:198/虎牙直播/huya.php?id=23865096
+埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
+埋堆堆43,http://43.128.40.42:198/虎牙直播/huya.php?id=23728630
+埋堆堆44,http://43.128.40.42:198/虎牙直播/huya.php?id=23863895
+埋堆堆45,http://43.128.40.42:198/虎牙直播/huya.php?id=23863787
+埋堆堆46,http://43.128.40.42:198/虎牙直播/huya.php?id=23728637
+埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
+埋堆堆48,http://43.128.40.42:198/虎牙直播/huya.php?id=23903085
+埋堆堆49,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
+埋堆堆50,http://43.128.40.42:198/虎牙直播/huya.php?id=23728647
+埋堆堆51,http://43.128.40.42:198/虎牙直播/huya.php?id=23746691
+埋堆堆52,http://43.128.40.42:198/虎牙直播/huya.php?id=23829447
+埋堆堆53,http://43.128.40.42:198/虎牙直播/huya.php?id=23728693
+埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
+埋堆堆57,http://43.128.40.42:198/虎牙直播/huya.php?id=23865124
+埋堆堆58,http://43.128.40.42:198/虎牙直播/huya.php?id=23865186
+埋堆堆59,http://43.128.40.42:198/虎牙直播/huya.php?id=23902225
+埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
+埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
+🎬斗鱼轮播,#genre#
+邵氏影院,http://43.138.170.29:35455/douyu/4246519
+鬼片恐怖惊悚,http://43.138.170.29:35455/douyu/2935323
+恐怖故事,http://43.138.170.29:35455/douyu/2337939
+科幻动作,http://43.138.170.29:35455/douyu/4332
+怡寳影院,http://43.138.170.29:35455/douyu/434971
+粤语电影,http://43.138.170.29:35455/douyu/6566671
+神乐影院,http://43.138.170.29:35455/douyu/85894
+苹果影院,http://43.138.170.29:35455/douyu/2793084
+午夜故事,http://43.138.170.29:35455/douyu/8722254
+功夫港片,http://43.138.170.29:35455/douyu/3637765
+桃花影院,http://43.138.170.29:35455/douyu/7305938
+译制国语,http://43.138.170.29:35455/douyu/2436390
+幸运影院,http://43.138.170.29:35455/douyu/7270927
+蚂蚱影院,http://43.138.170.29:35455/douyu/6079455
+纪录片,http://43.138.170.29:35455/douyu/4360438
+贝爷求生,http://43.138.170.29:35455/douyu/454867
+野外生存,http://43.138.170.29:35455/douyu/1339207
+经典港剧,http://43.138.170.29:35455/douyu/4549169
+小宇影院,http://43.138.170.29:35455/douyu/323876
+恐怖丧尸鬼片,http://43.138.170.29:35455/douyu/263824
+表妹影院,http://43.138.170.29:35455/douyu/5423
+荒野建造者,http://43.138.170.29:35455/douyu/9611578
+邦德影院,http://43.138.170.29:35455/douyu/9292499
+科幻动作灾难,http://43.138.170.29:35455/douyu/248753
+可乐影院,http://43.138.170.29:35455/douyu/20415
+特辑影院,http://43.138.170.29:35455/douyu/3637778
+贝爷影院,http://43.138.170.29:35455/douyu/252802
+惊悚影院,http://43.138.170.29:35455/douyu/96577
+港式恐怖,http://43.138.170.29:35455/douyu/3637726
+吃米滴虫,http://43.138.170.29:35455/douyu/315457
+漫威影片,http://43.138.170.29:35455/douyu/6140589
+刘德华电影1,http://43.138.170.29:35455/douyu/2516864
+喜剧经典,http://43.138.170.29:35455/douyu/9650887
+豆瓣高分,http://43.138.170.29:35455/douyu/8770422
+林正英电影2,http://43.138.170.29:35455/douyu/7356023
+宇哥电影,http://43.138.170.29:35455/douyu/413573
+贝爷影厅2,http://43.138.170.29:35455/douyu/36337
+霍格影片,http://43.138.170.29:35455/douyu/8814650
+冰冰经典电影,http://43.138.170.29:35455/douyu/74374
+避风港影院,http://43.138.170.29:35455/douyu/9826611
+恐怖经典,http://43.138.170.29:35455/douyu/1165374
+华语电影,http://43.138.170.29:35455/douyu/3928
+华语动作电影,http://43.138.170.29:35455/douyu/1504768
+喜剧电影,http://43.138.170.29:35455/douyu/9292492
+带你看大片,http://43.138.170.29:35455/douyu/2758565
+海绵与大星,http://43.138.170.29:35455/douyu/2250349
+一起看恐怖片,http://43.138.170.29:35455/douyu/9412287
+平安夜快乐,http://43.138.170.29:35455/douyu/6863367
+片荒的日子,http://43.138.170.29:35455/douyu/4258555
+大胡子魏,http://43.138.170.29:35455/douyu/8792763
+童年回忆,http://43.138.170.29:35455/douyu/8915074
+爆笑解说,http://43.138.170.29:35455/douyu/8317926
+爆笑解说,http://43.138.170.29:35455/douyu/2660125
+下饭神剧,http://43.138.170.29:35455/douyu/276200
+悬疑犯罪,http://43.138.170.29:35455/douyu/9171887
+看经典,http://43.138.170.29:35455/douyu/7314294
+不一样的电影,http://43.138.170.29:35455/douyu/2632223
+科幻影视解说,http://43.138.170.29:35455/douyu/3508304
+开心锤锤,http://43.138.170.29:35455/douyu/9018297
+热血动漫,http://43.138.170.29:35455/douyu/206858
+凛冬之地,http://43.138.170.29:35455/douyu/8945323
+高分影视,http://43.138.170.29:35455/douyu/1735337
+看美剧,http://43.138.170.29:35455/douyu/8869614
+动漫直播,http://43.138.170.29:35455/douyu/1487654
+神乐影片1,http://43.138.170.29:35455/douyu/122402
+神乐影片2,http://43.138.170.29:35455/douyu/85894
+贝爷MAX厅,http://43.138.170.29:35455/douyu/4332
+周星驰电影,http://43.138.170.29:35455/douyu/3990812
+刘德华电影2,http://43.138.170.29:35455/douyu/8985415
+女神金电影,http://43.138.170.29:35455/douyu/747764
+可乐电影,http://43.138.170.29:35455/douyu/20415
+奶虫恐怖电影,http://43.138.170.29:35455/douyu/263824
+林林影院,http://43.138.170.29:35455/douyu/9652323
+漫威电影,http://43.138.170.29:35455/douyu/4282654
+怀旧90,http://43.138.170.29:35455/douyu/9275635
+高帧影片,http://43.138.170.29:35455/douyu/6763930
+米娅电影,http://43.138.170.29:35455/douyu/6537888
+小九电影,http://43.138.170.29:35455/douyu/7136517
+【RM-点播】点播!模式-24H欢乐不断,http://43.138.170.29:35455/douyu/131977
+【RM-轮播】轮播!模式-24H欢乐不断,http://43.138.170.29:35455/douyu/7298973
+【回首往事】仨房间画面同步显示,http://43.138.170.29:35455/douyu/1569773
+大星与海绵方块,http://43.138.170.29:35455/douyu/3949681
+美味!蟹黄堡,http://43.138.170.29:35455/douyu/8762358
+海绵与大星直播间,http://43.138.170.29:35455/douyu/2250349
+【猫和老鼠】汤姆和杰瑞童年回忆,http://43.138.170.29:35455/douyu/7888428
+【柯南】外表看似小孩智慧却过于常人,http://43.138.170.29:35455/douyu/6484910
+江户川柯南是一个蒸蛋。,http://43.138.170.29:35455/douyu/5377297
+万年如一柯播南各位给点电费吧,http://43.138.170.29:35455/douyu/1783144
+【三笠】根本不存在解不开的迷!,http://43.138.170.29:35455/douyu/7050342
+【超级赛亚人】悟吉塔,http://43.138.170.29:35455/douyu/7190773
+【Hunter】动漫热血老贼冒险,http://43.138.170.29:35455/douyu/6610883
+【童年往事】仨房间画面同步显示点播,http://43.138.170.29:35455/douyu/7256376
+妖精的直播间,http://43.138.170.29:35455/douyu/5960746
+【天使点播】动漫直播间,http://43.138.170.29:35455/douyu/1487654
+【动漫】超燃怀旧经典,http://43.138.170.29:35455/douyu/1174353
+【动画电影】童年回忆,http://43.138.170.29:35455/douyu/10395973
+【星星动画】童年热血搞笑爱情,http://43.138.170.29:35455/douyu/4369939
+【追忆】国语超清动画电影,http://43.138.170.29:35455/douyu/6449849
+【动漫】24小时不间断动漫专场,http://43.138.170.29:35455/douyu/7493575
+【动漫】记录你的王者峡谷生活~,http://43.138.170.29:35455/douyu/9360149
+【小叮当】童年经典动画片,http://43.138.170.29:35455/douyu/9445279
+中二日记搞笑日常更新,http://43.138.170.29:35455/douyu/9505575
+动漫推荐官方直播间,http://43.138.170.29:35455/douyu/5187099
+【经典动漫】9455567,http://43.138.170.29:35455/douyu/9455567
+笑出腹肌动漫0,http://43.138.170.29:35455/douyu/8380708
+【神剧】经典神剧,http://43.138.170.29:35455/douyu/3700024
+【贝爷影厅】经典科幻动作灾难巨兽,http://43.138.170.29:35455/douyu/252802
+【西游】由爱故生怨怨恨交缠那又何苦,http://43.138.170.29:35455/douyu/9518204
+斗鱼电影7,http://43.138.170.29:35455/douyu/3637726
+斗鱼电影8,http://43.138.170.29:35455/douyu/323876
+斗鱼电影10,http://43.138.170.29:35455/douyu/2935323
+斗鱼电影11,http://43.138.170.29:35455/douyu/7459925
+斗鱼电影18,http://43.138.170.29:35455/douyu/4246519
+斗鱼电影22,http://43.138.170.29:35455/douyu/1979257
+斗鱼电影23,http://43.138.170.29:35455/douyu/7494871
+斗鱼电影26,http://43.138.170.29:35455/douyu/8413092
+斗鱼电影35,http://43.138.170.29:35455/douyu/248753
+斗鱼电影71,http://43.138.170.29:35455/douyu/2987100
+斗鱼电影77,http://43.138.170.29:35455/douyu/2758565
+斗鱼电影81,http://43.138.170.29:35455/douyu/3870925
+斗鱼电影95,http://43.138.170.29:35455/douyu/4549169
+斗鱼电影97,http://43.138.170.29:35455/douyu/8867878
+斗鱼电影105,http://43.138.170.29:35455/douyu/4290711
+斗鱼电影108,http://43.138.170.29:35455/douyu/6566671
+斗鱼电影111,http://43.138.170.29:35455/douyu/8475821
+斗鱼电影117,http://43.138.170.29:35455/douyu/338759
+斗鱼电影124,http://43.138.170.29:35455/douyu/2793084
+斗鱼电影125,http://43.138.170.29:35455/douyu/5067952
+斗鱼电影128,http://43.138.170.29:35455/douyu/675072
+斗鱼电影129,http://43.138.170.29:35455/douyu/413573
+斗鱼电影134,http://43.138.170.29:35455/douyu/6725858
+斗鱼电影135,http://43.138.170.29:35455/douyu/7476264
+斗鱼电影136,http://43.138.170.29:35455/douyu/5689514
+斗鱼电影141,http://43.138.170.29:35455/douyu/7623292
+斗鱼电影145,http://43.138.170.29:35455/douyu/5033502
+斗鱼电影151,http://43.138.170.29:35455/douyu/426517
+斗鱼电影153,http://43.138.170.29:35455/douyu/8799435
+斗鱼电影155,http://43.138.170.29:35455/douyu/4258555
+斗鱼电影165,http://43.138.170.29:35455/douyu/8705754
+斗鱼电影166,http://43.138.170.29:35455/douyu/5581257
+斗鱼电影169,http://43.138.170.29:35455/douyu/7528160
+斗鱼电影90,http://43.138.170.29:35455/douyu/6785471
+斗鱼电影110,http://43.138.170.29:35455/douyu/8415464
+斗鱼电影113,http://43.138.170.29:35455/douyu/5522351
+斗鱼电影114,http://43.138.170.29:35455/douyu/562225
+斗鱼电影115,http://43.138.170.29:35455/douyu/223521
+斗鱼电影116,http://43.138.170.29:35455/douyu/8651489
+斗鱼电影118,http://43.138.170.29:35455/douyu/4631599
+斗鱼电影120,http://43.138.170.29:35455/douyu/5354713
+斗鱼电影122,http://43.138.170.29:35455/douyu/3485629
+斗鱼电影130,http://43.138.170.29:35455/douyu/8014467
+斗鱼电影137,http://43.138.170.29:35455/douyu/1274132
+斗鱼电影143,http://43.138.170.29:35455/douyu/7314294
+斗鱼电影149,http://43.138.170.29:35455/douyu/6582435
+斗鱼电影150,http://43.138.170.29:35455/douyu/3980787
+斗鱼电影158,http://43.138.170.29:35455/douyu/8788687
+斗鱼电影159,http://43.138.170.29:35455/douyu/11342386
+斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+斗鱼电影4y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+🎬虎牙轮播,#genre#
+虎牙-周星星,http://43.138.170.29:35455/huya/24470631
+虎牙-林正英,http://43.138.170.29:35455/huya/11342421
+虎牙-沈腾,http://43.138.170.29:35455/huya/11601968
+虎牙-猫和老鼠,http://43.138.170.29:35455/huya/11352879
+虎牙-成龙,http://43.138.170.29:35455/huya/11342386
+虎牙-李连杰,http://43.138.170.29:35455/huya/11342390
+虎牙-刘德华,http://43.138.170.29:35455/huya/11342424
+虎牙-王晶,http://43.138.170.29:35455/huya/11602058
+虎牙-中华小当家,http://43.138.170.29:35455/huya/11342413
+虎牙-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
+虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
+虎牙-甄子丹,http://43.138.170.29:35455/huya/11352935
+虎牙-巨石强森,http://43.138.170.29:35455/huya/21059581
+虎牙-洪金宝,http://43.138.170.29:35455/huya/11279251
+虎牙-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
+虎牙-徐克,http://43.138.170.29:35455/huya/11352909
+虎牙-周润发,http://43.138.170.29:35455/huya/11342387
+虎牙-徐峥,http://43.138.170.29:35455/huya/11602043
+虎牙-许氏三杰,http://43.138.170.29:35455/huya/11602033
+虎牙-黄渤,http://43.138.170.29:35455/huya/11352876
+虎牙-张卫健,http://43.138.170.29:35455/huya/11342423
+虎牙-冯小刚,http://43.138.170.29:35455/huya/11352906
+虎牙-百鸟朝凤,http://43.138.170.29:35455/huya/15894162
+虎牙-陈翔六点半,http://43.138.170.29:35455/huya/11274154
+虎牙-电锯惊魂系列,http://43.138.170.29:35455/huya/11352903
+虎牙-电影,http://43.138.170.29:35455/huya/618917
+虎牙-港台电影,http://43.138.170.29:35455/huya/880261
+虎牙-高分电影,http://43.138.170.29:35455/huya/16615910
+虎牙-搞笑僵尸片,http://43.138.170.29:35455/huya/11352963
+虎牙-国产青春,http://43.138.170.29:35455/huya/11602075
+虎牙-好莱坞,http://43.138.170.29:35455/huya/21059587
+虎牙-黑帮斗争,http://43.138.170.29:35455/huya/11342419
+虎牙-红海行动,http://43.138.170.29:35455/huya/11601986
+虎牙-极限挑战],http://43.138.170.29:35455/huya/11352914
+虎牙-金庸的武侠世界,http://43.138.170.29:35455/huya/11342435
+虎牙-金庸电影,http://43.138.170.29:35455/huya/11352897
+虎牙-经典高智商,http://43.138.170.29:35455/huya/11352962
+虎牙-经典好片,http://43.138.170.29:35455/huya/11342427
+虎牙-经典喜剧片,http://43.138.170.29:35455/huya/11352894
+虎牙-精彩不断,http://43.138.170.29:35455/huya/24396428
+虎牙-精忠岳飞南征北战,http://43.138.170.29:35455/huya/11336578
+虎牙-警匪,http://43.138.170.29:35455/huya/11352886
+虎牙-看救援电影,http://43.138.170.29:35455/huya/21059586
+虎牙-科幻电影,http://43.138.170.29:35455/huya/11602034
+虎牙-路飞,http://43.138.170.29:35455/huya/16913382
+虎牙-麻雀,http://43.138.170.29:35455/huya/11352881
+虎牙-命案十三宗,http://43.138.170.29:35455/huya/11601981
+虎牙-魔法世界,http://43.138.170.29:35455/huya/21059580
+虎牙-欧美电影,http://43.138.170.29:35455/huya/11352880
+虎牙-欧美电影,http://43.138.170.29:35455/huya/21059581
+虎牙-欧美娱乐,http://43.138.170.29:35455/huya/21059574
+虎牙-倩女幽魂,http://43.138.170.29:35455/huya/11601970
+港台电影,http://43.138.170.29:35455/huya/880261
+黑帮斗争,http://43.138.170.29:35455/huya/11342419
+未知,http://43.138.170.29:35455/huya/11601986
+极限挑战,http://43.138.170.29:35455/huya/11352914
+金庸电影,http://43.138.170.29:35455/huya/11352897
+经典电影,http://43.138.170.29:35455/huya/11352962
+经典好片,http://43.138.170.29:35455/huya/11342427
+经典喜剧片,http://43.138.170.29:35455/huya/11352894
+警匪,http://43.138.170.29:35455/huya/11352886
+救援电影,http://43.138.170.29:35455/huya/21059586
+科幻电影,http://43.138.170.29:35455/huya/11602034
+电影22,http://43.138.170.29:35455/huya/11601981
+欧美电影,http://43.138.170.29:35455/huya/11352880
+欧美电影,http://43.138.170.29:35455/huya/21059581
+电影23,http://43.138.170.29:35455/huya/11601970
+史诗级战争电影,http://43.138.170.29:35455/huya/21059556
+电影24,http://43.138.170.29:35455/huya/21059579
+电影55,http://43.138.170.29:35455/huya/23652317
+喜剧专场,http://43.138.170.29:35455/huya/11602044
+电影26,http://43.138.170.29:35455/huya/21059577
+电影77,http://43.138.170.29:35455/huya/11601971
+电影78,http://43.138.170.29:35455/huya/11342414
+虎牙-神话,http://43.138.170.29:35455/huya/11352913
+虎牙-生活大爆炸,http://43.138.170.29:35455/huya/11342417
+虎牙-史诗级战争电影,http://43.138.170.29:35455/huya/21059556
+虎牙-孙悟空,http://43.138.170.29:35455/huya/11342395
+虎牙-太空混战,http://43.138.170.29:35455/huya/21059579
+虎牙-天雷滚滚,http://43.138.170.29:35455/huya/11352945
+虎牙-天龙八部,http://43.138.170.29:35455/huya/11602041
+虎牙-歪果仁动作,http://43.138.170.29:35455/huya/21059552
+虎牙-文成公主,http://43.138.170.29:35455/huya/11352974
+虎牙-我是大哥大,http://43.138.170.29:35455/huya/23652317
+虎牙-喜剧合家欢,http://43.138.170.29:35455/huya/11352877
+虎牙-小鲤鱼,http://43.138.170.29:35455/huya/11601961
+虎牙-悬疑推理,http://43.138.170.29:35455/huya/17445539
+虎牙-杨门女将,http://43.138.170.29:35455/huya/11336590
+虎牙-医馆笑传,http://43.138.170.29:35455/huya/11352891
+虎牙-异形世界,http://43.138.170.29:35455/huya/21059577
+虎牙-甄嬛传,http://43.138.170.29:35455/huya/11601971
+虎牙-止戈电影,http://43.138.170.29:35455/huya/19863777
+虎牙-中国功夫,http://43.138.170.29:35455/huya/11352941
+虎牙-朱雀青龙,http://43.138.170.29:35455/huya/11352905
+虎牙-捉妖记,http://43.138.170.29:35455/huya/11342414
+女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+🎬电影轮播,#genre#
+功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
+功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
+国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
+少林足球,https://hnzy.bfvvs.com/play/5eVn19eE/index.m3u8
+大话西游之宝盒,https://hnzy.bfvvs.com/play/yb8qRLdv/index.m3u8
+大话西游之宝盒,https://hnzy.bfvvs.com/play/Pdyr3ReQ/index.m3u8
+大话西游之娶亲,https://vip.lz-cdn2.com/20220323/295_5da1424a/index.m3u8
+大话西游之娶亲,https://hnzy.bfvvs.com/play/DbDR3qel/index.m3u8
+大话西游之娶亲,https://hnzy.bfvvs.com/play/Rb48MnbB/index.m3u8
+九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
+九品芝麻官,https://ukzy.ukubf4.com/20220407/CQI7owSE/index.m3u8
+破坏之王,https://v4.cdtlas.com/20220517/bKU3OCbP/index.m3u8
+百变星君,https://hnzy.bfvvs.com/play/Pdy7yEaQ/index.m3u8
+百变星君,https://hnzy.bfvvs.com/play/yb8WDgav/index.m3u8
+武状元苏乞儿,https://hnzy.bfvvs.com/play/5eVJ0MeE/index.m3u8
+武状元苏乞儿,https://v5.dious.cc/20220329/L61d2J07/index.m3u8
+算死草,https://s2.fsvod1.com/20220308/4vSGG1Wr/index.m3u8
+长江七号,https://hnzy.bfvvs.com/play/1aKrOKGe/index.m3u8
+唐伯虎点秋香,https://v3.cdtlas.com/20211209/C4V6zooj/index.m3u8
+唐伯虎点秋香,https://ukzy.ukubf4.com/20220407/wnsgZzX9/index.m3u8
+逃学威龙,https://cdn.zoubuting.com/20220521/wR5EhxN3/index.m3u8
+逃学威龙,https://hnzy.bfvvs.com/play/YerYOWdO/index.m3u8
+逃学威龙2,https://alimov2.a.kwimgs.com/upic/2021/12/28/16/BMjAyMTEyMjgxNjUxMzhfNDAzMDAxOTlfNjM2ODQ1ODYxNzhfMF8z_b_Ba5bdfedb34d432e906dbc401975d5387.mp4
+逃学威龙2,https://hnzy.bfvvs.com/play/Rb49MkdB/index.m3u8
+逃学威龙2,https://hnzy.bfvvs.com/play/PdymLgdQ/index.m3u8
+逃学威龙3,https://cdn.zoubuting.com/20220521/fFsI8h3E/index.m3u8
+逃学威龙3,https://hnzy.bfvvs.com/play/5eVZ7zeE/index.m3u8
+新精武门,https://v3.cdtlas.com/20220630/6q4VBXvv/index.m3u8
+食神,https://cdn.zoubuting.com/20220522/06EtJbxn/index.m3u8
+食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
+食神,https://hnzy.bfvvs.com/play/5eVNkveE/index.m3u8
+鹿鼎记,https://v3.dious.cc/20220329/ELzhdaDW/index.m3u8
+鹿鼎记,https://hnzy.bfvvs.com/play/PdyrY6eQ/index.m3u8
+鹿鼎记2之神龙教,https://cdn.zoubuting.com/20220521/NMUgIjm3/index.m3u8
+鹿鼎记2之神龙教,https://hnzy.bfvvs.com/play/1aKvlxeQ/index.m3u8
+鹿鼎记2之神龙教,https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
+整蛊专家,https://s1.zoubuting.com/20220620/OFOUdTSD/index.m3u8
+咖喱辣椒,https://ukzy.ukubf4.com/20220407/2mftU655/index.m3u8
+千王之王,https://hnzy.bfvvs.com/play/DbDvWnel/index.m3u8
+千王之王,https://ukzy.ukubf4.com/20220331/8qlDdjip/index.m3u8
+97家有喜事,https://ukzy.ukubf4.com/20220407/Ue4rNnif/index.m3u8
+喜剧之王,https://s4.fsvod1.com/20220313/hVJIOKyR/index.m3u8
+风雨同路,https://s2.fsvod1.com/20220330/cNGUfzSe/index.m3u8
+风雨同路,https://ukzy.ukubf4.com/20220408/cy7KQ4it/index.m3u8
+风雨同路,https://v3.dious.cc/20220402/GquysVv9/index.m3u8
+雌雄双辣,https://hnzy.bfvvs.com/play/QeZVR6ep/index.m3u8
+审死官,https://v3.dious.cc/20220329/j1ZuOAEs/index.m3u8
+审死官,https://ukzy.ukubf4.com/20220407/OxgWrcNR/index.m3u8
+望夫成龙,https://hnzy.bfvvs.com/play/YaOEOQdx/index.m3u8
+望夫成龙,https://hnzy.bfvvs.com/play/QeZw58ap/index.m3u8
+望夫成龙,https://ukzy.ukubf4.com/20220407/jEakalqL/index.m3u8
+济公,https://hnzy.bfvvs.com/play/DbDZxyel/index.m3u8
+霹雳先锋,https://ukzy.ukubf4.com/20220408/RUBcjzKq/index.m3u8
+🎬百视通,#genre#
+百视电影1,https://bp-caster.bestv.com.cn/88/3/video.m3u8
+百视电影2,https://bp-caster.bestv.com.cn/89/3/video.m3u8
+百视电影3,https://bp-caster.bestv.com.cn/91/3/video.m3u8
+百视电影4,https://bp-caster.bestv.com.cn/92/3/video.m3u8
+百视电影5,https://bp-caster.bestv.com.cn/93/3/video.m3u8
+百视电影6,https://bp-caster.bestv.com.cn/94/3/video.m3u8
+百视电影7,https://bp-caster.bestv.com.cn/95/3/video.m3u8
+百视电影8,https://bp-caster.bestv.com.cn/96/3/video.m3u8
+百视电影9,https://bp-caster.bestv.com.cn/97/3/video.m3u8
+百视电影10,https://bp-caster.bestv.com.cn/98/3/video.m3u8
+百视电影11,https://bp-caster.bestv.com.cn/99/3/video.m3u8
+百视电影12,https://bp-caster.bestv.com.cn/100/3/video.m3u8
+百视电影13,https://bp-caster.bestv.com.cn/101/3/video.m3u8
+百视电影14,https://bp-caster.bestv.com.cn/102/3/video.m3u8
+百视电影15,https://bp-caster.bestv.com.cn/103/3/video.m3u8
+百视电影16,https://bp-caster.bestv.com.cn/104/3/video.m3u8
+百视电影17,https://bp-caster.bestv.com.cn/105/3/video.m3u8
+百视电影18,https://bp-caster.bestv.com.cn/106/3/video.m3u8
+百视电影19,https://bp-caster.bestv.com.cn/107/3/video.m3u8
+百视电影20,https://bp-caster.bestv.com.cn/108/3/video.m3u8
+百视电影21,https://bp-caster.bestv.com.cn/109/3/video.m3u8
+百视电影22,https://bp-caster.bestv.com.cn/110/3/video.m3u8
+百视电影23,https://bp-caster.bestv.com.cn/111/3/video.m3u8
+百视电影24,https://bp-caster.bestv.com.cn/112/3/video.m3u8
+百视电影25,https://bp-caster.bestv.com.cn/113/3/video.m3u8
+百视电影26,https://bp-caster.bestv.com.cn/114/3/video.m3u8
+百视电影27,https://bp-caster.bestv.com.cn/115/3/video.m3u8
+百视电影28,https://bp-caster.bestv.com.cn/116/3/video.m3u8
+百视电影29,https://bp-caster.bestv.com.cn/117/3/video.m3u8
+百视电影30,https://bp-caster.bestv.com.cn/118/3/video.m3u8
+百视电影31,https://bp-caster.bestv.com.cn/119/3/video.m3u8
+百视电影32,https://bp-caster.bestv.com.cn/120/3/video.m3u8
+百视电影33,https://bp-caster.bestv.com.cn/121/3/video.m3u8
+百视电影34,https://bp-caster.bestv.com.cn/122/3/video.m3u8
+百视电影35,https://bp-caster.bestv.com.cn/123/3/video.m3u8
+百视电影36,https://bp-caster.bestv.com.cn/124/3/video.m3u8
+百视电影37,https://bp-caster.bestv.com.cn/125/3/video.m3u8
+百视电影38,https://bp-caster.bestv.com.cn/126/3/video.m3u8
+百视电影39，https://bp-caster.bestv.com.cn/127/3/video.m3u8
+百视电影40,https://bp-caster.bestv.com.cn/128/3/video.m3u8
+百视电影41,https://bp-caster.bestv.com.cn/129/3/video.m3u8
+百视电影42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
+百视搞笑43,https://bp-caster.bestv.com.cn/131/3/video.m3u8
+百视搞笑44,https://bp-caster.bestv.com.cn/132/3/video.m3u8
+🎬轮播百视,#genre#
+童年国漫,http://bp-caster.bestv.com.cn/486/1/video.m3u8
+狗血集合,http://bp-caster.bestv.com.cn/569/1/video.m3u8
+解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
+布衣天子,http://bp-caster.bestv.com.cn/468/1/video.m3u8
+云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
+悬疑烧脑,http://bp-caster.bestv.com.cn/567/1/video.m3u8
+烈火英雄,http://bp-caster.bestv.com.cn/564/1/video.m3u8
+上头正剧,http://bp-caster.bestv.com.cn/501/1/video.m3u8
+我们的歌,http://bp-caster.bestv.com.cn/378/1/video.m3u8
+烈焰青春,http://bp-caster.bestv.com.cn/439/1/video.m3u8
+医护那些事,http://bp-caster.bestv.com.cn/493/1/video.m3u8
+人文秘境,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+神奇公司,http://bp-caster.bestv.com.cn/356/1/video.m3u8
+重返20岁,http://bp-caster.bestv.com.cn/562/1/video.m3u8
+金曲青春,http://bp-caster.bestv.com.cn/561/1/video.m3u8
+三十正美丽,http://bp-caster.bestv.com.cn/492/1/video.m3u8
+高能脱口秀,http://bp-caster.bestv.com.cn/462/1/video.m3u8
+追光吧哥哥,http://bp-caster.bestv.com.cn/460/1/video.m3u8
+名侦探柯南,http://bp-caster.bestv.com.cn/560/1/video.m3u8
+花样姐姐,http://bp-caster.bestv.com.cn/559/1/video.m3u8
+完美的夏天,http://bp-caster.bestv.com.cn/510/1/video.m3u8
+宝藏纪录片,http://bp-caster.bestv.com.cn/515/1/video.m3u8
+极限挑战,http://bp-caster.bestv.com.cn/511/1/video.m3u8
+B+音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
+相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
+迷案上海滩,http://bp-caster.bestv.com.cn/494/1/video.m3u8
+打工人奋斗史,http://bp-caster.bestv.com.cn/532/1/video.m3u8
+泰上头,http://bp-caster.bestv.com.cn/490/1/video.m3u8
+介就是爱,http://bp-caster.bestv.com.cn/480/1/video.m3u8
+七彩戏剧,https://bp-caster.bestv.com.cn/250/1/video.m3u8
+健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
+读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
+戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
+美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
+不朽的传承,http://bp-caster.bestv.com.cn:80/437/2/video.m3u8
+烈焰青春,http://bp-caster.bestv.com.cn:80/439/play.m3u8
+春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
+跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
+我们的歌,http://bp-caster.bestv.com.cn:80/378/1/video.m3u8
+完美的夏天,http://bp-caster.bestv.com.cn:80/377/2/video.m3u8
+神奇公司,http://bp-caster.bestv.com.cn:80/356/play.m3u8
+jj斗地主,http://bp-caster.bestv.com.cn:80/359/1/video.m3u8
+搞笑穿越,http://bp-caster.bestv.com.cn:80/361/play.m3u8
+科学大爆炸,http://bp-caster.bestv.com.cn:80/333/play.m3u8
+高颜值偶像剧,http://bp-caster.bestv.com.cn:80/328/play.m3u8
+下饭爽剧,http://bp-caster.bestv.com.cn:80/322/play.m3u8
+猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8?servicetype=1
+童年国漫,https://bp-caster.bestv.com.cn:443/249/play.m3u8
+海派滑稽戏,https://bp-caster.bestv.com.cn:443/250/play.m3u8
+相声有新人,http://bp-caster.bestv.com.cn:80/335/3/video.m3u8
+越剧名家名段,http://bp-caster.bestv.com.cn:80/320/play.m3u8
+猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8
+全直播源,#genre#
+凤凰中文 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+CCTV1 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
+CCTV1 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
+CCTV1 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
+CCTV1 4.8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8
+CCTV1 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221226316/index.m3u8
+CCTV1 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8
+CCTV1 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227494/index.m3u8
+CCTV1 4M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8
+CCTV1 4M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8
+CCTV1 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8
+CCTV1 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
+CCTV1 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228075/index.m3u8
+CCTV1 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8
+CCTV1 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8
+CCTV1 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227431/index.m3u8
+CCTV1 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8
+CCTV1 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
+CCTV1 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
+CCTV1 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
+CCTV2 12M1080,http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
+CCTV2 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8
+CCTV2 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8
+CCTV2 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8
+CCTV2 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8
+CCTV2 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227696/index.m3u8
+CCTV2 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8
+CCTV2 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8
+CCTV2 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
+CCTV3 3.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221227481/index.m3u8
+CCTV3 3.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8
+CCTV3 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227295/index.m3u8
+CCTV3 4.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228237/index.m3u8
+CCTV3 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227650/index.m3u8
+CCTV3 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227623/index.m3u8
+CCTV3 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
+CCTV3 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8
+CCTV3 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8
+CCTV3 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8
+CCTV3 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
+CCTV4 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
+CCTV4 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8
+CCTV4 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
+CCTV4 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227683/index.m3u8
+CCTV4 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228156/index.m3u8
+CCTV4 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8
+CCTV4 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8
+CCTV4 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
+CCTV4 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
+CCTV5 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8
+CCTV5 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8
+CCTV5 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8
+CCTV5 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227478/index.m3u8
+CCTV5 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227452/index.m3u8
+CCTV5 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227661/index.m3u8
+CCTV5 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228173/index.m3u8
+CCTV5 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228082/index.m3u8
+CCTV5 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227466/index.m3u8
+CCTV5 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227401/index.m3u8
+CCTV5 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227686/index.m3u8
+CCTV5 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228395/index.m3u8
+CCTV5 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8
+CCTV5 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227617/index.m3u8
+CCTV5 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
+CCTV5+ 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8
+CCTV5+ 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221228492/index.m3u8
+CCTV5+ 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227522/index.m3u8
+CCTV5+ 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8
+CCTV5+ 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227714/index.m3u8
+CCTV5+ 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227685/index.m3u8
+CCTV5+ 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228114/index.m3u8
+CCTV5+ 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228076/index.m3u8
+CCTV5+ 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227463/index.m3u8
+CCTV5+ 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227480/index.m3u8
+CCTV5+ 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227631/index.m3u8
+CCTV5+ 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8
+CCTV5+ Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
+CCTV5+ Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
+CCTV6 3.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8
+CCTV6 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8
+CCTV6 4.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228196/index.m3u8
+CCTV6 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225548/index.m3u8
+CCTV6 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227664/index.m3u8
+CCTV6 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228185/index.m3u8
+CCTV6 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227581/index.m3u8
+CCTV6 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8
+CCTV6 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
+CCTV6 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8
+CCTV6 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8
+CCTV7 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8
+CCTV7 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8
+CCTV7 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
+CCTV7 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+CCTV7 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8
+CCTV7 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8
+CCTV8 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8
+CCTV8 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227205/index.m3u8
+CCTV8 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227204/index.m3u8
+CCTV8 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8
+CCTV8 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227750/index.m3u8
+CCTV8 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228079/index.m3u8
+CCTV8 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227433/index.m3u8
+CCTV8 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8
+CCTV5 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227573/index.m3u8
+CCTV8 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8
+CCTV8 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8
+CCTV8 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8
+CCTV9 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8
+CCTV9 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
+CCTV9 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8
+CCTV9 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
+CCTV9 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8
+CCTV10 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8
+CCTV10 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8
+CCTV10 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8
+CCTV10 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+CCTV10 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
+CCTV11 2.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
+CCTV11 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
+CCTV11 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+CCTV11 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8
+CCTV12 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8
+CCTV12 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8
+CCTV12 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+CCTV12 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8
+CCTV13 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
+CCTV13 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8
+CCTV13 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
+CCTV13 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
+CCTV13 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8
+CCTV13 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
+CCTV14 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8
+CCTV14 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8
+CCTV14 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+CCTV14 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
+CCTV15 3.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8
+CCTV15 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
+CCTV15 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
+CCTV16 7M1080,http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8
+CCTV16 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+CCTV16 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
+CCTV16 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
+CCTV17 2.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8
+CCTV17 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8
+CCTV17 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
+CCTV17 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
+CCTV17 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
+CCTV高尔夫网球 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+东南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
+东南卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
+东南卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8
+东方卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227396/index.m3u8
+东方卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221228504/index.m3u8
+东方卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8
+东方卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227732/index.m3u8
+东方卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227688/index.m3u8
+东方卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228150/index.m3u8
+东方卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227208/index.m3u8
+东方卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227486/index.m3u8
+东方卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
+东方卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
+云南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8
+云南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
+北京卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227390/index.m3u8
+北京卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227246/index.m3u8
+北京卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227652/index.m3u8
+北京卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227694/index.m3u8
+北京卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228115/index.m3u8
+北京卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221225574/index.m3u8
+北京卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227436/index.m3u8
+北京卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228410/index.m3u8
+北京卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
+吉林卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8
+吉林卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+四川卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
+天津卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227382/index.m3u8
+天津卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8
+天津卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227633/index.m3u8
+天津卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227741/index.m3u8
+天津卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227756/index.m3u8
+天津卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228239/index.m3u8
+天津卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8
+天津卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228416/index.m3u8
+天津卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
+安徽卫视 3.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221225634/index.m3u8
+安徽卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227653/index.m3u8
+安徽卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227759/index.m3u8
+安徽卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228153/index.m3u8
+安徽卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227498/index.m3u8
+安徽卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
+安徽卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228327/index.m3u8
+安徽卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
+山东卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227310/index.m3u8
+山东卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221228560/index.m3u8
+山东卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227621/index.m3u8
+山东卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227671/index.m3u8
+山东卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227697/index.m3u8
+山东卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228124/index.m3u8
+山东卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227258/index.m3u8
+山东卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227448/index.m3u8
+山东卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228315/index.m3u8
+山东卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
+广东卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227399/index.m3u8
+广东卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221228566/index.m3u8
+广东卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227249/index.m3u8
+广东卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227591/index.m3u8
+广东卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227673/index.m3u8
+广东卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227691/index.m3u8
+广东卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228230/index.m3u8
+广东卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8
+广东卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8
+广东卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
+广西卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+江苏卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227402/index.m3u8
+江苏卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227649/index.m3u8
+江苏卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227255/index.m3u8
+江苏卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227561/index.m3u8
+江苏卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227705/index.m3u8
+江苏卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227668/index.m3u8
+江苏卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227689/index.m3u8
+江苏卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227185/index.m3u8
+江苏卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227439/index.m3u8
+江苏卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228099/index.m3u8
+江苏卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228306/index.m3u8
+江苏卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
+江苏卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
+江西卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221228557/index.m3u8
+江西卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225536/index.m3u8
+江西卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227738/index.m3u8
+江西卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+河北卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227545/index.m3u8
+河北卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+河南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227521/index.m3u8
+河南卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+浙江卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227393/index.m3u8
+浙江卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8
+浙江卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227744/index.m3u8
+浙江卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227692/index.m3u8
+浙江卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228147/index.m3u8
+浙江卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8
+浙江卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221225544/index.m3u8
+浙江卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228309/index.m3u8
+浙江卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
+海南卫视 2.5M1080,http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+海南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
+深圳卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227307/index.m3u8
+深圳卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227624/index.m3u8
+深圳卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227677/index.m3u8
+深圳卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227695/index.m3u8
+深圳卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228236/index.m3u8
+深圳卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227217/index.m3u8
+深圳卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
+深圳卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
+湖北卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227377/index.m3u8
+湖北卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227211/index.m3u8
+湖北卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227565/index.m3u8
+湖北卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227665/index.m3u8
+湖北卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227703/index.m3u8
+湖北卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
+湖北卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
+湖南卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8
+湖南卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227220/index.m3u8
+湖南卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227735/index.m3u8
+湖南卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227698/index.m3u8
+湖南卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228227/index.m3u8
+湖南卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227191/index.m3u8
+湖南卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227404/index.m3u8
+湖南卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228413/index.m3u8
+湖南卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
+甘肃卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+贵州卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8
+贵州卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+辽宁卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8
+辽宁卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227676/index.m3u8
+辽宁卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227700/index.m3u8
+辽宁卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228162/index.m3u8
+辽宁卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8
+辽宁卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228310/index.m3u8
+辽宁卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
+重庆卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8
+重庆卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
+重庆卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227729/index.m3u8
+重庆卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
+青海卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
+黑龙江卫视 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227323/index.m3u8
+黑龙江卫视 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227252/index.m3u8
+黑龙江卫视 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227662/index.m3u8
+黑龙江卫视 5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227753/index.m3u8
+黑龙江卫视 7.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228233/index.m3u8
+黑龙江卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227492/index.m3u8
+黑龙江卫视 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8
+黑龙江卫视 8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8
+黑龙江卫视 Max16M1080,http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
+上海纪实人文 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227674/index.m3u8
+上海纪实人文 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
+北京冬奥纪实 5.5M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8
+北京冬奥纪实 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+SiTV乐游 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8
+SiTV动漫秀场 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
+SiTV游戏风云 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227713/index.m3u8
+SiTV生活时尚 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227707/index.m3u8
+SiTV都市剧场 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
+NewTV海外剧场 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
+NewTV中国功夫 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+NewTV军事评论 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+NewTV军旅剧场 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+NewTV农业致富 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+NewTV动作电影 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+NewTV家庭剧场 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+NewTV怡伴健康 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+NewTV惊悚悬疑 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+NewTV明星大片 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+NewTV武搏世界 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+NewTV潮妈辣婆 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+NewTV炫舞未来 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+NewTV爱情喜剧 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+NewTV精品体育 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+NewTV精品大剧 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+NewTV精品纪录 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+NewTV精品萌宠 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+NewTV金牌综艺 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+黑莓动画 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
+黑莓动画 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
+黑莓电影 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+黑莓电影 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+哒啵赛事 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
+百姓生活 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
+知否知否 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+未知 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+未知 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
+未知 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228463/index.m3u8
+未知 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228460/index.m3u8
+未知 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
+未知 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228447/index.m3u8
+未知 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+未知 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
+未知 4M1080,http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
+咪咕全民热练 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
+咪咕怀旧剧场 2M1080,http://ott.mobaibox.com/PLTV/3/224/3221228120/index.m3u8
+咪咕视频 1080,http://ott.mobaibox.com/PLTV/3/224/3221228084/index.m3u8
+咪咕视频 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8
+咪咕视频 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
+咪咕视频 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
+咪咕视频 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+咪咕视频 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8
+咪咕视频 8M1080,http://ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8
